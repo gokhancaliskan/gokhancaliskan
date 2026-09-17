@@ -16,21 +16,21 @@
 
 I've spent 3+ years building production frontends with **React, Next.js and Nuxt**, and most of that time has been inside games: browser games, Telegram mini-apps, real-time multiplayer clients and the back-office tools around them. I also run the **Cloudflare** side of things (Workers, Pages, DNS, R2/D1) for the products I work on.
 
-Where I'm heading: **full-time game development**. I run **[Hotan Game](https://hotangames.com)**, my own four-person studio, where we build our own games and deliver software for clients — and where I design as much as I code.
+Where I'm heading: **full-time game development**. I run **[Hotan Game](https://hotangames.com)**, my own four-person studio, where we build our own games and deliver software for clients, and where I design as much as I code.
 
 > Most of my work lives in private and organization repositories, so the contribution graph tells more of the story than the public repo list.
 
 ### What I'm working on
 
-- 🚢 **Sink Protocol** (Hotan Game) — a tactical naval deckbuilder in Unity/C#: Battleship's hidden-information grid meets Slay the Spire-style hand, energy and intent systems. Built by a team of two; game design and the entire Figma UI are mine.
-- 🍔 **Runmeal & PlugOffice** (Plug Digital) — ongoing development of a multi-tenant food-ordering platform and an organization-scoped CRM, delivered through my studio: Next.js, NestJS, PostgreSQL/PostGIS, Redis and Cloudflare.
-- 🎰 **Real-time web games** (under NDA) — a large catalogue of instant and multiplayer browser games built with React, TypeScript and Vite on a shared game runtime, with WebSocket clients and provably-fair mechanics.
+- 🚢 **Sink Protocol** (Hotan Game): a tactical naval deckbuilder in Unity/C#: Battleship's hidden-information grid meets Slay the Spire-style hand, energy and intent systems. Built by a team of two; game design and the entire Figma UI are mine.
+- 🍔 **Runmeal & PlugOffice** (Plug Digital): ongoing development of a multi-tenant food-ordering platform and an organization-scoped CRM, delivered through my studio: Next.js, NestJS, PostgreSQL/PostGIS, Redis and Cloudflare.
+- 🎰 **Real-time web games** (under NDA): a large catalogue of instant and multiplayer browser games built with React, TypeScript and Vite on a shared game runtime, with WebSocket clients and provably-fair mechanics.
 
 ### Selected work
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **PlayNpro — Main Engine** (with the Hotan Game team) | Gaming platform monorepo: API, queue-driven worker, three frontends (playground, back office, player app) | NestJS · Next.js · PostgreSQL/Prisma · Redis · RabbitMQ · Turborepo |
+| **PlayNpro Main Engine** (with the Hotan Game team) | Gaming platform monorepo: API, queue-driven worker, three frontends (playground, back office, player app) | NestJS · Next.js · PostgreSQL/Prisma · Redis · RabbitMQ · Turborepo |
 | **[Runmeal](https://runmeal.co.uk)** (a Plug Digital product) | Multi-tenant food-ordering platform: storefronts, brand sites, dashboard, payments, POS integration | Next.js · NestJS · TypeORM · PostgreSQL/PostGIS · Redis · Stripe/iyzico · Cloudflare (OpenNext) |
 | **PlugOffice / Licence API** (a Plug Digital product) | Organization-scoped CRM with a licensing service controlling features and access | NestJS · PostgreSQL · Redis · Next.js |
 | **[plugdigital.co.uk](https://plugdigital.co.uk)** | Plug Digital's company website on a headless CMS, deployed fully on Cloudflare | Next.js 16 · Payload CMS 3 · Cloudflare Workers · D1 · R2 |
@@ -70,5 +70,5 @@ Where I'm heading: **full-time game development**. I run **[Hotan Game](https://
 
 ### Get in touch
 
-Open to conversations about **game development** and **game-adjacent frontend** roles — remote or hybrid.
+Open to conversations about **game development** and **game-adjacent frontend** roles, remote or hybrid.
 📫 [caliskancompany@gmail.com](mailto:caliskancompany@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gokhan-caliskan/)
