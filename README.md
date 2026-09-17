@@ -24,7 +24,6 @@ Where I'm heading: **full-time game development**. I run **[Hotan Game](https://
 
 - 🚢 **Sink Protocol** (Hotan Game) — a tactical naval deckbuilder in Unity/C#: Battleship's hidden-information grid meets Slay the Spire-style hand, energy and intent systems. Built by a team of two; game design and the entire Figma UI are mine.
 - 🎰 **Real-time web games** (under NDA) — a large catalogue of instant and multiplayer browser games built with React, TypeScript and Vite on a shared game runtime, with WebSocket clients and provably-fair mechanics.
-- 🧪 **ChronoRoots** (PiQ Games) — a time-twisting puzzle platformer prototype, still in development.
 
 ### Selected work
 
