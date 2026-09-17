@@ -23,6 +23,7 @@ Where I'm heading: **full-time game development**. I run **[Hotan Game](https://
 ### What I'm working on
 
 - 🚢 **Sink Protocol** (Hotan Game) — a tactical naval deckbuilder in Unity/C#: Battleship's hidden-information grid meets Slay the Spire-style hand, energy and intent systems. Built by a team of two; game design and the entire Figma UI are mine.
+- 🍔 **Runmeal & PlugOffice** (Plug Digital) — ongoing development of a multi-tenant food-ordering platform and an organization-scoped CRM, delivered through my studio: Next.js, NestJS, PostgreSQL/PostGIS, Redis and Cloudflare.
 - 🎰 **Real-time web games** (under NDA) — a large catalogue of instant and multiplayer browser games built with React, TypeScript and Vite on a shared game runtime, with WebSocket clients and provably-fair mechanics.
 
 ### Selected work
